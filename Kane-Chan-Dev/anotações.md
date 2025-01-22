@@ -1,5 +1,3 @@
-Continuar aula: 3
-
 ### Conexão com banco usando PDO:
 
 <?php 
@@ -19,3 +17,6 @@ echo '<pre>';
 print_r($dados);
 ?>
 
+### Aula: Como não permitir cadastro de email duplicado ao fazer INSERT no CRUD PHP - Parte 03
+Foi mostrado como fazer uma validação no bando para não inserir itens duplicados.
+Usamos o arquivo cadastrar_action.php onde usamos o comando if else para verificar se já existia o email inserido, caso exista, execute o else.

@@ -1,3 +1,5 @@
+Continuar aula: 3
+
 ### Conexão com banco usando PDO:
 
 <?php 

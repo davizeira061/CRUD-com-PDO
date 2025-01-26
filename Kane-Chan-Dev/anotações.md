@@ -17,7 +17,7 @@ $dados = $sql->fetchAll();
 // $dados = $sql->fetchAll(pdo::FETCH_ASSOC);
 
 <!-- // Exibir os dados -->
-echo '<pre>';
+echo '';
 print_r($dados);
 ?>
 

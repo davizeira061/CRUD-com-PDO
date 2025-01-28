@@ -48,3 +48,10 @@ if ($sql->rowCount() > 0) {
             </tr>
         <?php endforeach; ?>
 ~~~
+
+### Aula: Como fazer um CRUP PHP? UPDATE - Parte 05
+Foi mostrado como fazer o <UPDATE> dos dados do banco.
+Criação dos arquivos "editar.php" e "editar_action.php"
+
+### Aula: Como fazer um Crud Php Delete? - Parte 06
+Foi aprendido a fazer o DELETE, uma maneira simples de fazer uma exclusão no banco.

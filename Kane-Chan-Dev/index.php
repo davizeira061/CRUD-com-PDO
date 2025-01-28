@@ -9,7 +9,7 @@ if ($sql->rowCount() > 0) {
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 
 <head>
     <meta charset="UTF-8">
@@ -36,7 +36,7 @@ if ($sql->rowCount() > 0) {
                 <td><?=$usuario['senha'];?></td>
                 <td>
                     <a href="editar.php?id=<?=$usuario['id'];?>">[EDITAR]</a>
-                    <a href="excluir.php">[EXCLUIR]</a>
+                    <a href="excluir.php?id=<?=$usuario['id'];?>">[EXCLUIR]</a>
                 </td>
             </tr>
         <?php endforeach; ?>

@@ -50,8 +50,8 @@ try {
 ### Introdução a $SESSION
 ~~~html
 <hr>
-<a href="TiagoA.Silva/LOGIN_MYSQL_SESSIONS/">
 ~~~
+<a href="Tia goA.Silva/LOGIN_MYSQL_SESSIONS/">
 Mostra como iniciar uma session, como validar e como finalizar.
 
 

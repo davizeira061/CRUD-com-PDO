@@ -48,8 +48,9 @@ try {
 
 >O método *$e->getMessage()* retorna uma descrição detalhada do erro, que é exibida ao usuário (ou pode ser registrada para depuração).
 <hr>
+
 ### Introdução a $SESSION
-<a href="Tia goA.Silva/LOGIN_MYSQL_SESSIONS/">
+<a href="TiagoA.Silva/LOGIN_MYSQL_SESSIONS/">
 Mostra como iniciar uma session, como validar e como finalizar
 
 
